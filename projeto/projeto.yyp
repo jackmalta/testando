@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "9ad8660a-cad2-4095-bdd4-dab911f72210",
+            "Value": {
+                "id": "379d0b78-4f9e-4ec3-919a-dba4bc57c768",
+                "resourcePath": "objects\\obj_porco_boi\\obj_porco_boi.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "d2f4a8ab-39a0-4187-8a10-1a187a0004c2",
