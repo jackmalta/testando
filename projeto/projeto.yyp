@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "db7f7305-c8ab-4ce0-96bc-10b28019a020",
+            "Value": {
+                "id": "447c9bf4-5e09-4d06-afe7-2775fabb2604",
+                "resourcePath": "objects\\obj_boi_poro\\obj_boi_poro.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eb52055f-7ad6-433e-b00b-38051e8403ed",
             "Value": {
                 "id": "6a6e4539-a47a-4c18-a132-5d02a2309797",
